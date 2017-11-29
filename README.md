@@ -1,4 +1,4 @@
-# Software-Development-and-Life-Cycle
+# Software Development and Life-Cycle
 <h1> Project Lifecycles <h1>
 
 <h3> Waterfall <h3>
