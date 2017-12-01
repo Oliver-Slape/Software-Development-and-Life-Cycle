@@ -15,3 +15,6 @@ This is refined through Client feedback. <h4>
 <h4> The Spiral model is the combination of the Waterfall method and the Prototyping method. It combines elements of both design and 
 Prototyping-in-stages. This model uses the same order as the Waterfall however, it is seperated by planning, risk assesment and the building
 of prototypes and simulations. <h4>
+
+## How is risk mamaged in the Spiral model ?
+### Risk is managed in the Sprial model at the risk assesment stage. This is where risk is idetified and alternate solutions are made to solve this. At the end of this phase a prototype is produced. 
