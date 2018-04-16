@@ -28,3 +28,21 @@
 #### Financial Feasibility 
 ##### This is a major breakdown and summary of the finances in the project. This is all of the costs from marketing to technical resources. This will then be compared with an estimated profit figure to calculate whether the venture will be profitable or how profitable it will be.
 
+
+### Technical Solutions Comparison
+#### Technical solutions are compared on a set of constraints. Generally there will be many constraints so whichever solution meets the most or has the highest priority solutions but doesn’t meet the whole package will be chosen. These can be;
+
+#### Suitability
+##### This is whether or not it can solve the problem or it is a wasted venture. 
+
+#### History
+##### A technical solution that has been used before or is well known and established will be more reliable and efficient that a solution that has just finished development as they may still have unexpected testing errors they haven’t picked up on yet and could waste time. 
+
+#### Support
+##### This links in with history. If a solution is established it is likely to have a lot of error or general support. This can be from previous users or current one. This can also be true for closed and open source solutions. Closed source solutions will have in-house support and maybe not as many outside resources. Whereas Open source solutions will have a much wider base of input and could have a bigger and more active support committee. 
+
+#### Sustainability 
+##### The solution will have to meet the volume and requirements of the problem. If it is a long-term solution and there is a lot of projected growth can it handle the scalability in size in the future? 
+
+#### Licensing
+##### This mainly effects comparisons between open and closed software. The licensing of an open software could affect the usage as it can be against their terms. However they may have the best software to meet the solution. Closed software will generally have less conflicts with licensing and terms but they will generally have a greater cost.
