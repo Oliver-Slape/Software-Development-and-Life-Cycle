@@ -17,4 +17,4 @@ Prototyping-in-stages. This model uses the same order as the Waterfall however, 
 of prototypes and simulations. <h4>
 
 ## How is risk mamaged in the Spiral model ?
-### Risk is managed in the Sprial model at the risk assesment stage. This is where risk is idetified and alternate solutions are made to solve this. At the end of this phase a prototype is produced. 
+### The Spiral models main aspect is focusing on risks. Every aspect of the product and work becomes transparent as it is all a secondary action. After the initial design and development stage there is a massive risk assessment stage. This is where every possible risk is monitored and mediated. This is also a continuation of the entire model. If the risks are sorted out in first priority it can mediate a lot of wasted time. The model is very adaptive. Rather than managing risks after development and possibly wasting time on unnecessary work, the spiral model mediates this before development.
