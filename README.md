@@ -56,3 +56,7 @@
 #### Techniques
 ##### We used a variety of techniques for this project. Some of these are; Communication in meeting with the client. Time management in setting deadlines and a burn down chart. Evaluation and feedback in prototyping and testing. Creativity and decision making in design.
 
+### Meeting Requirements
+#### We translated the requirements set out by the client into Epics and User stories. This is part of the Agile Scrum project framework. The Epics are large requirements that cant be divided into singular tasks. These are then split into user stories. These are descriptions of a feature from the users perspective. They generally follow this structure  " As a < type of user >, I want < some goal > so that < some reason >. ". 
+
+![Epic]( https://github.com/Oliver-Slape/Software-Development-and-Life-Cycle/blob/master/Epic.png) 
