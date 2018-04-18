@@ -10,6 +10,8 @@
 ### Spiral 
 #### The Spiral model is the combination of the Waterfall method and the Prototyping method. It combines elements of both design and Prototyping-in-stages. This model uses the same order as the Waterfall however, it is seperated by planning, risk assesment and the building of prototypes and simulations. 
 
+![Spiral]( https://github.com/Oliver-Slape/Software-Development-and-Life-Cycle/blob/master/spiral.png)
+
 ### How is risk mamaged in the Spiral model ?
 #### The Spiral models main aspect is focusing on risks. Every aspect of the product and work becomes transparent as it is all a secondary action. After the initial design and development stage there is a massive risk assessment stage. This is where every possible risk is monitored and mediated. This is also a continuation of the entire model. If the risks are sorted out in first priority it can mediate a lot of wasted time. The model is very adaptive. Rather than managing risks after development and possibly wasting time on unnecessary work, the spiral model mediates this before development.
 
