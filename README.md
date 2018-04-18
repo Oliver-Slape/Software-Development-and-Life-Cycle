@@ -48,3 +48,11 @@
 
 #### Licensing
 ##### This mainly effects comparisons between open and closed software. The licensing of an open software could affect the usage as it can be against their terms. However they may have the best software to meet the solution. Closed software will generally have less conflicts with licensing and terms but they will generally have a greater cost.
+
+### Software Investigation
+#### Tools
+##### In our ZSL project we used a wide variety of tools and services.  We used Google Drive to collaborate on documentation and to store our image assets and create presentations for client meetings. We used Shutter stock to source images and assets we weren’t creating ourselves. We used Unity as our main development platform. This also included using Visual Studio as they work in unison. We used a variety of image editors including Photoshop and Illustrator. 
+
+#### Techniques
+##### We used a variety of techniques for this project. Some of these are; Communication in meeting with the client. Time management in setting deadlines and a burn down chart. Evaluation and feedback in prototyping and testing. Creativity and decision making in design.
+
