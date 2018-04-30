@@ -1,18 +1,32 @@
-# Software Development and Life-Cycle
-## Project Lifecycles 
+# Project Lifecycles 
+
+## Sequential
+
+### Evolutionary 
+#### Evolutionary is a form of Software Prototyping. The goal of Evolutionary is to create a robust prototype and constantly refine it. This is refined through Client feedback. There will be an implement of an initial version that is shown to the client. Then feedback will be given and this will be put back through development and validation. Then there is a second and final version where the same cycle happens. 
+
+![Evo]( https://github.com/Oliver-Slape/Software-Development-and-Life-Cycle/blob/master/Evolution.png)
 
 ### Waterfall 
-#### The Waterfall model is a linear software lifecycle in which the progress flows in one direction downwards. This occurs through phases of Requirements Definitions, System and Software Design, Implentation and unit testing, Intergration and system testing and Operation and maintenenace. 
+#### The Waterfall model is a linear software lifecycle in which the progress flows in one direction downwards. This occurs through phases of Requirements Definitions, System and Software Design, Implantation and unit testing, Integration and system testing and Operation and maintenance. 
+
+![Waterfall]( https://github.com/Oliver-Slape/Software-Development-and-Life-Cycle/blob/master/waterfall.png)
+
+## Iterative
+
 ### Prototyping 
-#### Prototyping is the activity of creating prototypes of software applications such as incomplete versions of the software. It is used to visualize some component of the software to limit misunderstanding between the development team and the client. 
-### Evolutionary 
-#### Evolutionary is a form of Software Prototyping. The goal of Evolutionary is to create a robust prototype and constantly refine it. This is refined through Client feedback. 
+#### Prototyping is the activity of creating prototypes of software applications such as incomplete versions of the software. It is used to recognise some component of the software to limit misunderstanding between the development team and the client. 
+
+![Proto]( https://github.com/Oliver-Slape/Software-Development-and-Life-Cycle/blob/master/prototype.png)
+
 ### Spiral 
-#### The Spiral model is the combination of the Waterfall method and the Prototyping method. It combines elements of both design and Prototyping-in-stages. This model uses the same order as the Waterfall however, it is seperated by planning, risk assesment and the building of prototypes and simulations. 
+#### The Spiral model is the combination of the Waterfall method and the Prototyping method. It combines elements of both design and Prototyping-in-stages. This model uses the same order as the Waterfall however, it is separated by planning, risk assessment and the building of prototypes and simulations.
+
 
 ![Spiral]( https://github.com/Oliver-Slape/Software-Development-and-Life-Cycle/blob/master/spiral.png)
 
-### How is risk mamaged in the Spiral model ?
+### How is risk managed in the Spiral model?
+
 #### The Spiral models main aspect is focusing on risks. Every aspect of the product and work becomes transparent as it is all a secondary action. After the initial design and development stage there is a massive risk assessment stage. This is where every possible risk is monitored and mediated. This is also a continuation of the entire model. If the risks are sorted out in first priority it can mediate a lot of wasted time. The model is very adaptive. Rather than managing risks after development and possibly wasting time on unnecessary work, the spiral model mediates this before development.
 
 ### Feasibility Report
