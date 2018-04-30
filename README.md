@@ -36,7 +36,7 @@
 #### The Spiral models main aspect is focusing on risks. Every aspect of the product and work becomes transparent as it is all a secondary action. Risks are conditions that can prevent the project from reaching its goals. After the initial design and development stage there is a massive risk assessment stage. This is where every possible risk is monitored and mediated. This is also a continued iteration of the entire model. If the risks are sorted out in first priority it can mediate a lot of wasted time and the risks are managed from trivial to fatal. This model is also very adaptive. Rather than managing risks after development and possibly wasting time on unnecessary work, the spiral model mediates this before development.
 
 ### Feasibility Report
-#### The Feasibility report is the second document created in a business case. It is a breakdown of the different variables involved and how they will be accepted in the market along with who the target audience is and what sector of the market it is targeting. It essentially explores the different avenues the project can target and analyses them. It will generally have a layout like so;
+#### The Feasibility report is one of the first documents created in a business case. It is a breakdown of the different variables involved and how they will be accepted in the market along with who the target audience is and what sector of the market it is targeting. It explores the different avenues the project can target and analyses them. It will generally have a layout like so;
 
 #### Proposed Project 
 ###### This is a summary of the project and its aims, objectives, costs and time constraints. 
