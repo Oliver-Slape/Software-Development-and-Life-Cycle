@@ -48,10 +48,10 @@
 ###### This covers whether the estimated costs, time, and resources of the technical aspects will make the venture profitable. This is also where the Functional and non-Functional requirements will be established. Additionally, there will also be an analysis on constraints. 
 
 #### Financial Feasibility 
-####### This is a major breakdown and summary of the finances in the project. This is all of the costs from marketing to technical resources. This will then be compared with an estimated profit figure to calculate whether the venture will be profitable or how profitable it will be.
+###### This is a major breakdown and summary of the finances in the project. This is all of the costs from marketing to technical resources. This will then be compared with an estimated profit figure to calculate whether the venture will be profitable or how profitable it will be.
 
 #### Review
-####### This is where the whole project will be summarized and analysed. This will be on topics like what project management framework to use, the software lifecycle and if there are any major constraints that can’t be mediated.
+###### This is where the whole project will be summarized and analysed. This will be on topics like what project management framework to use, the software lifecycle and if there are any major constraints that can’t be mediated.
 
 ### Technical Solutions Comparison
 #### Technical solutions are compared on a set of constraints. Generally, there will be many constraints so whichever solution meets the most or has the highest priority solutions but doesn’t meet the whole package will be chosen. Some constraints can be user and system requirements, features and functions. These can be interpreted into a layout like so;
