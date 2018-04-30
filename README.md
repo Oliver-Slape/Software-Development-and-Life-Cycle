@@ -65,7 +65,7 @@
 #### Support
 ##### This links in with history. If a solution is established it is likely to have a lot of error or general support. This can be from previous users or current one. This can also be true for closed and open source solutions. Closed source solutions will have in-house support and maybe not as many outside resources. Whereas Open source solutions will have a much wider base of input and could have a bigger and more active support committee. 
 
-#### Sustainability/Scalability 
+#### Scalability 
 ##### The solution will have to meet the volume and requirements of the problem. If it is a long-term solution and there is a lot of projected growth can it handle the scalability in size in the future? 
 
 #### Licensing/Availability
