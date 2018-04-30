@@ -7,11 +7,23 @@
 
 ![Waterfall]( https://github.com/Oliver-Slape/Software-Development-and-Life-Cycle/blob/master/waterfall.png)
 
+#### Advantages
+##### At the beginning of the waterfall model the requirements and design are agreed upon by the client and developer. These are set in stone and do not change for the entire lifecycle allowing a steady continuation of work as nothing needs to be redefined and delivered to the client until the entire product is delivered. 
+
+#### Disadvantages
+##### With the fact that the requirements are set and developed in the first stage and don't change there can be a massive issue with the client not liking the finished product. As they have no input through development the client won’t see the product till it’s finished meaning that if they aren't satisfied the entire project has to be scrapped and taken back to the drawing board which is very costly.
+
+
 ### V model
-#### The V model is the same structure as the waterfall model. However, when it reaches the coding stage around system and software design instead of continuing in a linear stage, It bends upwards into testing and implementation. 
+#### The V model is the same structure as the waterfall model. However, when it reaches the coding stage around system and software design instead of continuing in a linear stage, It bends upwards into testing and implementation. Allowing for more flexibility in the development stages. 
 
 ![Vmodel]( https://github.com/Oliver-Slape/Software-Development-and-Life-Cycle/blob/master/Vmodel.png)
 
+#### Advantages
+##### The added design stages compared with waterfall model allows for the V model to have more flexibility in changing requirements and agreeing with the client what they want allowing for less risk developing the product as the developers have a better understanding of the deliverable the client wants. 
+
+#### Disadvantages
+##### The system is developed during the implementations stage meaning that there isn't a point for prototypes to be developed making a lack of testing and increased risks. 
 
 ## Iterative
 
@@ -20,16 +32,22 @@
 
 ![Evo]( https://github.com/Oliver-Slape/Software-Development-and-Life-Cycle/blob/master/Evolution.png)
 
-### Prototyping 
-#### Prototyping is the activity of creating prototypes of software applications such as incomplete versions of the software. It is used to recognise some component of the software to limit misunderstanding between the development team and the client. 
+#### Advantages
+##### Because of the iterative design in Evolutionary it allows for a larger client input as designs and prototypes are constantly made and tested, taken to the client and then worked on from feedback. 
 
-![Proto]( https://github.com/Oliver-Slape/Software-Development-and-Life-Cycle/blob/master/prototype.png)
+#### Disadvantages
+##### Because the product goes through so many changes it is hard to keep on top of changes and documentation. Additionally, the developers could end up skipping over mistakes because they haven't documented their changes for testing.
 
 ### Spiral 
 #### The Spiral model is the combination of the Waterfall method and the Prototyping method. It combines elements of both design and Prototyping-in-stages. This model uses the same order as the Waterfall however, it is separated by planning, risk assessment and the building of prototypes and simulations.
 
-
 ![Spiral]( https://github.com/Oliver-Slape/Software-Development-and-Life-Cycle/blob/master/spiral.png)
+
+#### Advantages
+##### Because of the amount of prototype’s and testing that happens in the spiral model it is very easy to spot risks early on and document and mediate these. This also continues on through the entire lifecycle.
+
+#### Disadvantages
+##### The spiral model is very costly as it is a very demanding model and management and documentation. Along with the extensive risk and development stages it can go on for a long time increasing the cost exponentially.
 
 ### How is risk managed in the Spiral model?
 
