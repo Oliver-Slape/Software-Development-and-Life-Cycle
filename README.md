@@ -59,7 +59,7 @@
 #### Suitability/Purpose
 ##### This is whether or not it is appropriated for the solution required or has aspects that are appropriate.
 
-#### History
+#### Maturity
 ##### A technical solution that has been used before or is well known and established will be more reliable and efficient that a solution that has just finished development as they may still have unexpected testing errors they haven’t picked up on yet and could waste time. 
 
 #### Support
